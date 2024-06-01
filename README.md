@@ -5,7 +5,7 @@ https://stackblitz.com/edit/dom-project-chaiaurcode
 
 ## Project Solution
 =====================================================================
-## Project 1 
+## Project 1  Solution
 
 ``` javascript
 
